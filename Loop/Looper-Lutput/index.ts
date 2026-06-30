@@ -111,3 +111,10 @@ const familyMembersBirthday : string[] = ['Father : 28-08-1975', 'Mother : 3 - 0
 for(const birthday of familyMembersBirthday){
     console.log(`${birthday}`)
 }
+
+// Problem Number 4  
+console.log("--- Problem 4 ; Print name of your favourite players name ---")
+const favouritePlayers : string[] = ['Muller', 'Ronaldo','Mbappe', 'Kroos', 'Musiala']
+for(const player of favouritePlayers){
+    console.log(`${player}`)
+}
