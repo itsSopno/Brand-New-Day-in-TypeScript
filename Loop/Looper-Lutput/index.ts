@@ -118,3 +118,10 @@ const favouritePlayers : string[] = ['Muller', 'Ronaldo','Mbappe', 'Kroos', 'Mus
 for(const player of favouritePlayers){
     console.log(`${player}`)
 }
+
+// Problem Number 5  
+console.log("--- Problem 5 : Print your exam dates by using for loop ---")
+const examDates : string[] = ['Math : 12-06-2028' , 'Physics : 15-06-2028', 'Chemistry : 18-06-2028', 'English : 20-06-2028']
+for(const dates of examDates){
+    console.log(`${dates}`)
+}
