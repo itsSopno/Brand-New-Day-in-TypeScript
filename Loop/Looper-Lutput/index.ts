@@ -113,7 +113,7 @@ for(const birthday of familyMembersBirthday){
 }
 
 // Problem Number 4  
-console.log("--- Problem 4 ; Print name of your favourite players name ---")
+console.log("--- Problem 4 ; Print name of your favourite players ---")
 const favouritePlayers : string[] = ['Muller', 'Ronaldo','Mbappe', 'Kroos', 'Musiala']
 for(const player of favouritePlayers){
     console.log(`${player}`)
