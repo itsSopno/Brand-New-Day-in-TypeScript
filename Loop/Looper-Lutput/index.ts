@@ -143,3 +143,11 @@ while(j <= 10){
     console.log(`${j}`)
     j++
 }
+
+// Problem Number 3 
+console.log("--- Problem Number 3 , print 50 to 100 number by using while loop ---")
+let k : number = 50
+while(k <= 100){
+    console.log(`${k}`)
+    k++
+}
