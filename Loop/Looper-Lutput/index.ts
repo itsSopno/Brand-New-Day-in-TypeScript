@@ -167,3 +167,14 @@ while(d <= 111){
     console.log(`${d / 5}`)
     d ++
 }
+// Page Number 109 - 112 
+// Problem Number 6  
+
+console.log("--- Problem Number 6 , print 5 to 50 number by using while loop and print total numnber ---")
+let m : number = 5 
+let total : number = 0 
+while(m<=50){
+    total += m 
+    m++
+}
+console.log(`Total number is : ${total}`)
