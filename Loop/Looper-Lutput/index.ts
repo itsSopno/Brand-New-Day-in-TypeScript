@@ -178,3 +178,13 @@ while(m<=50){
     m++
 }
 console.log(`Total number is : ${total}`)
+
+// Problem Number 7 
+console.log("--- Problem Number 7 , use roll number 1 to 50 in school and print total number of student by using while loop ---")
+let s : number = 1 
+let totalStudent : number = 0 
+while(s <= 50){
+    totalStudent += s 
+    s++
+}
+console.log(`Total number of student is : ${totalStudent}`)
