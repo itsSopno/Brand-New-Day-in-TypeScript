@@ -224,3 +224,12 @@ for(let i : number = 25 ; i <= 50 ; i ++){
     totalNumber += i 
 }
 console.log(`Total numbers from 25 to 50 is : ${totalNumber}`)
+
+// Problem Number 4 
+console.log("--- Problem Number 4 , print 20 to 50 number by using classical for loop , only numbers which are divisible by 2 ---")
+const totalDivisibleby2 : number = 50 
+for(let i : number = 20 ; i <= totalDivisibleby2; i ++){
+    if(i % 2 === 0 ){
+        console.log(`${i}`)
+    }
+}
