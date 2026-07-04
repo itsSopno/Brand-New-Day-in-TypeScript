@@ -151,3 +151,11 @@ while(k <= 100){
     console.log(`${k}`)
     k++
 }
+
+// Problem Number 4 
+console.log("--- Problem Number 4 , print 1 to 10 number and multiply them by 3 by using while loop ---")
+let l : number = 1
+while(l<=10){
+    console.log(`${l * 3}`)
+    l ++
+}
