@@ -135,3 +135,11 @@ while(i <= 10){
     console.log("I will practice programming daily for 5 hours")
     i++
 }
+
+// Problem Number 2 
+console.log("--- Problem Number 2 , print 1 to 10 number by using while loop ---")
+let j : number = 1 
+while(j <= 10){
+    console.log(`${j}`)
+    j++
+}
