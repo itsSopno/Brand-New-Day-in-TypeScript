@@ -159,3 +159,11 @@ while(l<=10){
     console.log(`${l * 3}`)
     l ++
 }
+
+// Problem Number 5 
+console.log("--- Problem Number 5 , print 100 to 111 number by using while loop and devide them by 5 --- ")
+let d : number = 100
+while(d <= 111){
+    console.log(`${d / 5}`)
+    d ++
+}
