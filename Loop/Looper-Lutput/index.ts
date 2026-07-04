@@ -199,3 +199,13 @@ while(r <= 50){
     r++
 }
 console.log(`Total roll Number of student is : ${totalRollNumber}`)
+
+// Page Number 112 - 114
+// Problem of Classic for Loop 
+// Problem Number 1 
+console.log("--- Problem Number 1 , print 150 to 170 number by using classical for loop ---")
+const limit1 : number = 170 
+for(let i : number = 150 ; i <= limit1 ; i ++){
+    console.log(`${i}`)
+}
+console.log()
