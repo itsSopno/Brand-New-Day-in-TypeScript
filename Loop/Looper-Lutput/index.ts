@@ -209,3 +209,10 @@ for(let i : number = 150 ; i <= limit1 ; i ++){
     console.log(`${i}`)
 }
 console.log()
+// Problem Number 2 
+console.log("--- Problem Number2 , make a list of roll number 31 to 58 and print total number of them by using classical for loop ---")
+let totalRoll : number = 0 
+for(let i : number = 31 ; i <= 58 ; i ++){
+    totalRoll += i
+}
+console.log(`Total roll numbers from 31 to 58 is : ${totalRoll}`)
