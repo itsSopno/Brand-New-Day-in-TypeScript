@@ -242,3 +242,12 @@ for(let i : number = 40 ; i <= totalDivisibleky3 ; i ++){
         console.log(`${i}`)
     }
 }
+
+// Problem Number 6 
+console.log("--- Problem Number 6 , print 1 to 40 numbers which are divisible by 13 ---")
+const totalDivisibleby13 : number = 40 
+for(let i : number = 1 ; i <= totalDivisibleby13 ; i ++){
+    if(i % 13 === 0 ){
+        console.log(`${i}`)
+    }
+}
