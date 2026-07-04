@@ -251,3 +251,10 @@ for(let i : number = 1 ; i <= totalDivisibleby13 ; i ++){
         console.log(`${i}`)
     }
 }
+
+// Problem Number 7 
+console.log("--- Problem Number 7 , print 1 to 50 by using classical for loop and print total number of them ---")
+const totalNumberby50 : number = 50 
+for( let i : number = 1 ; i <= totalNumberby50 ; i = i + 4){
+    console.log(`${i}`)
+}
