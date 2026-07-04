@@ -216,3 +216,11 @@ for(let i : number = 31 ; i <= 58 ; i ++){
     totalRoll += i
 }
 console.log(`Total roll numbers from 31 to 58 is : ${totalRoll}`)
+
+// Problem Number 3 
+console.log("--- Problem Number 3 , use 25 to 50 number and print total number of them by using classical for loop ---")
+let totalNumber : number = 0 
+for(let i : number = 25 ; i <= 50 ; i ++){
+    totalNumber += i 
+}
+console.log(`Total numbers from 25 to 50 is : ${totalNumber}`)
