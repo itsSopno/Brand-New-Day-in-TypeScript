@@ -233,3 +233,12 @@ for(let i : number = 20 ; i <= totalDivisibleby2; i ++){
         console.log(`${i}`)
     }
 }
+
+// Problem Number 5 
+console.log("--- Problem Number 5 , print 40 to 80 number which are divisible by 5 and 7 , ---")
+const totalDivisibleky3 : number = 80 
+for(let i : number = 40 ; i <= totalDivisibleky3 ; i ++){
+    if(i % 5 === 0 && i % 7 === 0 ){
+        console.log(`${i}`)
+    }
+}
