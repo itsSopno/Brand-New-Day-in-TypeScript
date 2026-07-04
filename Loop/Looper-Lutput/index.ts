@@ -125,3 +125,13 @@ const examDates : string[] = ['Math : 12-06-2028' , 'Physics : 15-06-2028', 'Che
 for(const dates of examDates){
     console.log(`${dates}`)
 }
+
+// Page Number 105- 109 
+
+// Problem Number 1  
+console.log("--- Problem Number 1 , console something 10 time by using while loop ---")
+let i : number = 1
+while(i <= 10){
+    console.log("I will practice programming daily for 5 hours")
+    i++
+}
